@@ -1,11 +1,11 @@
 {
-    "name": "japan_impact",
-    "short_name": "japan_impact",
+    "name": "bobby_shopping",
+    "short_name": "bobby_shopping",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An app and website for the Japan Impact convention.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
