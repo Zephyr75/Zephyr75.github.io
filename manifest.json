@@ -1,11 +1,11 @@
 {
-    "name": "cellulo_hub",
-    "short_name": "cellulo_hub",
+    "name": "command_line",
+    "short_name": "command_line",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A hub for Cellulo games.",
+    "description": "Personal website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
